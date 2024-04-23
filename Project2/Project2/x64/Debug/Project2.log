@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\Programista\Desktop\23.04.2024\Project2\MyForm.h(126,69): error C2039: „label2_Click”: nie jest składową elementu „Project2::MyForm”
+  (kompilowanie pliku źródłowego „MyForm.cpp”)
+  C:\Users\Programista\Desktop\23.04.2024\Project2\MyForm.h(15,19):
+  zobacz deklarację „Project2::MyForm”
+  
+C:\Users\Programista\Desktop\23.04.2024\Project2\MyForm.h(126,69): error C2065: "label2_Click": niezadeklarowany identyfikator
+  (kompilowanie pliku źródłowego „MyForm.cpp”)
+  
+C:\Users\Programista\Desktop\23.04.2024\Project2\MyForm.h(126,53): error C3924: błąd w argumencie #2 wywołania konstruktora delegata „System::EventHandler“:
+  (kompilowanie pliku źródłowego „MyForm.cpp”)
+  C:\Users\Programista\Desktop\23.04.2024\Project2\MyForm.h(126,53):
+  oczekiwano wskaźnika do funkcji składowej
+  

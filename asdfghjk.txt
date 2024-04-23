@@ -1,0 +1,6 @@
+Temat Aplikacje desktopowe w C++
+
+Wprowadzenie do Windows Forms w Microsoft Visual Studio
+1.Zmiana fotografi
+2.Prosty kalkulator
+bomboclad siiiiiiiiiiiigggggggggggggggggggmmmmmmmmmmmmmmaaaaaaaaaaaaaaaaaaaaaaa
